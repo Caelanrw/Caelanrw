@@ -22,7 +22,7 @@
   I am a dedicated and highly motivated undergraduate senior at Boston University pursuing a Computer Engineering degree
   - :telescope:I'm currently working on an NFL betting odds predictor that uses web scraping to obtain data and machine learning to determine over/unders and game winners
   - :zap:I am enthusiastic about connecting with professionals about future projects or to connect about changing technology
-  - :mailbox:How to reach me:caewong@bu.edu
+  - :mailbox:How to reach me: caewong@bu.edu
 
 
 
